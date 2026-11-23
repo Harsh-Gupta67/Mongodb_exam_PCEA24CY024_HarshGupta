@@ -1,1 +1,4 @@
-# Mongodb_exam_PCEA24CY024_HarshGupta
+Harsh Gupta 
+PCEA24CY0224
+Question 1 - student records 
+Question 2 - Employee directory
